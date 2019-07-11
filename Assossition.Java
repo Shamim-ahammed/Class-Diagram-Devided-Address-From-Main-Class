@@ -3,7 +3,7 @@ public class Association {
        public static void main (String args[]){
             
            customer cust1 = new customer("Shamim", "Shamim171442617", "1859");
-           address addr1 = new address(2, 3, "Biruttom Road", "Tribeny", "Jhenaidah", "Jhenaidah");
+           address addr1 = new address("Tribeny", "Shailokupa", "Jhenaidah");
            
            System.out.println(cust1.customer() + " " + addr1.address());
            
