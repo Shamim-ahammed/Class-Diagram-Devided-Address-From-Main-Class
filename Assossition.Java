@@ -9,7 +9,7 @@ public class Association {
            
            
            admin admin1 = new admin("Administrator", "admin", "Admin@123");
-           address addr2 = new address("Tribeny", "Jhenaidah", "Jhenaidah");
+           address addr2 = new address("Tribeny", "Shailokupa", "Jhenaidah");
            
            
            System.out.println(admin1.admin() + " " + addr2.address());
